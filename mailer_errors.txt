@@ -1,0 +1,10 @@
+[2026-06-07 21:49:59] SMTP connect failed (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[2026-06-07 21:49:59] Failed to send verification email to emmanuelmulenga9592@gmail.com
+[2026-06-07 21:57:03] SMTP greeting failed: empty
+[2026-06-07 21:57:03] Failed to send verification email to emmanuelmulenga9592@gmail.com
+[2026-06-07 22:02:49] EHLO failed: empty
+[2026-06-07 22:02:49] Failed to send verification email to faithmusonda81@gmail.com
+[2026-06-07 22:05:51] SMTP greeting failed: empty
+[2026-06-07 22:05:51] Failed to send verification email to emmanuelmulenga9592@gmail.com
+[2026-06-07 22:14:41] SMTP connect failed (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[2026-06-07 22:14:41] Retrying with implicit SSL on port 465.
